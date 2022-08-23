@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
+.dec{
+	text-decoration: none;
+}
+.st_pnl{
+	margin-top: 5%;
+	margin-left: 25%;
+}
+.st_head{
+	background-color: #0f2027;
+	color: white;
+}
+.st_bd{
+	border: 2px solid black; border-bottom-left-radius: 30px;height: 150px;
+}
+@media only screen and (max-width: 600px) {
+     .st_pnl{
+        margin-left: 0%;
+    }
+}
+.add{
+	margin-right: 20px;
+	margin-top: 10px;
+	color: white;
+}
+.add:hover{
+	
+	color: green;
+}
+.count{
+	height: 100px;
+	width: 200px;
+	color: black;
+	border: 2px solid black;
+	border-radius: 15px;
+	text-align: center;
+	font-size: 30px;
+	margin-left: 35%;
+	font-weight: bold;
+}
+.card_logo h4{
+   font-family: 'Uncial Antiqua', cursive;
+   margin-top: 30px;
+
+}
